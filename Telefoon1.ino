@@ -1,5 +1,5 @@
 /***************************************************
-TELEFOON II - ZWART - CODERDOJO TIENEN
+TELEFOON III - MATTE ZWART - CODERDOJO TIENEN
 ****************************************************/
 
 #include "Arduino.h"
